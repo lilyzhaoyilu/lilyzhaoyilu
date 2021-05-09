@@ -7,7 +7,7 @@
 - :dog: The profile pic is my corgi Leo. He contributes to all my projects (in a woof way). 
 - :star: I speak Chinese and English   
 
-Currently ranked about ~70,000 on LeetCodeCN
+Currently ranked about ~62,000 on LeetCodeCN
 <br>
 ![LEETCODECN](https://github.com/lilyzhaoyilu/LeetCodeRecord/blob/master/assets/LCCN.png)
 <br>
