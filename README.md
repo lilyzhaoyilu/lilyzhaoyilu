@@ -14,7 +14,7 @@
 - [Someday](https://somedaymern.herokuapp.com/#/splash) Group project. A website that allows users to record their liked movies & TV shows into their customized lists. It uses Rapid API's api to fetch IMDB data. Frontend: React; Backend: NodeJS; Database: MongodB. Hosted on Heroku.
 
 ## DS&A
-Current rank on LeetCodeCN
+Current rank on LeetCodeCN ~15,500
 <br>
 ![LEETCODECN](https://github.com/lilyzhaoyilu/LeetCodeRecord/blob/master/assets/LCCN.png)
 <br>
