@@ -7,7 +7,7 @@
 - :woman_technologist: I am a full stack engineer, with experience in Ruby on Rails, JavaScript, NodeJs, React, Redux, Postgresql, MongoDB...
 - :star: I speak Chinese and English
 - :muscle: Currently learning lots of DS&A everyday and actively interviewing
-- :open_book: Currently, I am comfortab at being uncomfortable. 
+- :open_book: Currently, I am comfortable at being uncomfortable. 
 
 ## Demo Projects I have done...
 - [WeSlack](https://weslackin.herokuapp.com/#/) I built the whole thing by myself. It is a clone of Slack's web version. Users can send live chat with each other and in channels(private & public ones). Users can also join, leave, manage channels. All users and channels are searchabel. Front end: React + Redux; Backend: Ruby on Rails; Database: PostgreSQL. Hosted on Heroku.
