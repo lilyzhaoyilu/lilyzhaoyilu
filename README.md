@@ -18,6 +18,7 @@
 Current rank on LeetCodeCN ~15,500
 <br>
 ![LEETCODECN](https://github.com/lilyzhaoyilu/LeetCodeRecord/blob/master/assets/LCCN.png)
+[My LeetCodeCN Page](https://leetcode-cn.com/u/yi-xiao-i/)
 <br>
 
 ## How to reach me
