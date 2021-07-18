@@ -6,7 +6,7 @@
 - :smile: currently looking for SDE positions in the San Francisco Bay Area
 - :woman_technologist: I am a full stack engineer, with experience in Ruby on Rails, JavaScript, NodeJs, React, Redux, Postgresql, MongoDB...
 - :star: I speak Chinese and English
-- :muscle: Currently learning lots of DS&A everyday and actively interviewing
+- :muscle: Currently actively interviewing. Learning things like: DS&A, vinalla JS, DOM... etc.  
 - :open_book: Currently, I am comfortable at being uncomfortable. 
 
 ## Demo Projects I have done...
