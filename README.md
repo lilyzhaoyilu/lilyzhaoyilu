@@ -4,6 +4,6 @@
 
 ## About me...
 - :smile: Work hard play hard!
-- :woman_technologist: I am a full stack engineer, with experience in Ruby on Rails, JavaScript, NodeJs, React, Redux, Postgresql, MongoDB...
+- :woman_technologist: I am a full stack engineer
 - :star: I speak Chinese and English
 - :open_book: Currently, I am comfortable at being uncomfortable. 
